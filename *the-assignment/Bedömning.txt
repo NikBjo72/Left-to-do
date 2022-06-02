@@ -1,0 +1,21 @@
+1: 2/2p 
+2: 2/2p — Mycket bra menyer med korrekt felhantering! 
+3: 8/8p 
+4: 4/8p — Man kan inte markera uppgifter som "ej klara" - snygg hantering av checklistor 5: 8/8p 
+6: 8/8p 
+7: 4/4p 
+8: 4/4p 
+9: 2/2p — Mycket bra tester! 
+10: 2/2p 
+11: 2/2p 
+12: 4/4p — Bra! 
+13: 4/4p — Mycket bra! 
+14: 2/2p — Flera välmotiverade tester med bra implemtation. Mycket bra! 
+15: 1/2p — Fel namn, ska heta "reflections" 
+16: 8/8p — Mycket bra! Längre svar än vad som krävs. 
+17: 15/15p — Mycket välskrivet och förståelse och avvägningar är tydliga, tyvärr slutar sista stycket på en cliffhanger! 
+18: 15/15p — Mycket bra - kul att du jobbat enligt TDD.
+Bra jobbat Niklas!
+
+POÄNG: 95
+Omdöme: VG (100 möjliga poäng)
