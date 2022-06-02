@@ -10,6 +10,7 @@ I mappen `/*the-assignment` hittar du beskrivning av uppgiften, inlämningsrappo
 • .NET 5.0 Core SDK måste vara installerat.  
 • Applikationen startas i terminalen genom att skriva [dotnet run].  
 • Applikationen körs sedan i terminalen.
+
 ## Självskattning
 >**OBS:** Byt ut dina egna uppdateringar från *kurisiv text* till **fetmarkerad**.
 
